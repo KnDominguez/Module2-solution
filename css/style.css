@@ -31,7 +31,7 @@ p {
   border: 1px solid black;
   text-align: center;
   width: 35%;
-  background-color: pink;
+  background-color: green;
   position: relative;
   font-family: bold;
   font-size: large;
@@ -42,7 +42,7 @@ p {
   border: 1px solid black;
   text-align: center;
   width: 35%;
-  background-color: pink;
+  background-color: purple;
   position: relative;
   font-family: bold;
   font-size: large;
@@ -53,7 +53,7 @@ p {
   border: 1px solid black;
   text-align: center;
   width: 35%;
-  background-color: pink;
+  background-color: blue;
   position: relative;
   font-family: bold;
   font-size: large;
